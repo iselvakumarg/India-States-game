@@ -6,3 +6,9 @@ A state's game used to learn about the geography of the nation in a more easier 
 ## packages used
 * pandas
 * turtle
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="video.mp4" type="video/mp4">
+  </video>
+</figure>
